@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Tailwind CSS
 - 📚 I'm currently reading: Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
 - ⚡ Fun fact: I always keep the kitchen clean after or while cooking.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Souce projects.
 
 ### Connect with me:
 
