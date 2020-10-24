@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some freelance project using Ionic, Vue.js & Laravel frameworks
 - 🌱 I’m currently learning Tailwind CSS
 - 📚 I'm currently reading: Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin
-- ⚡ Fun fact: I always keep the kitchen clean after or while cooking.
+- ⚡ Fun fact: The most beautiful nature place I’ve ever been is Kuang Si waterfall in Luang Prabang, Laos 🇱🇦
 - 🥅 2020 Goals: Contribute to Open Souce projects.
 
 ### Connect with me:
